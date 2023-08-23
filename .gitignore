@@ -1,0 +1,5 @@
+# def
+.vscode/
+.vimrc
+.*.sw*
+build/
